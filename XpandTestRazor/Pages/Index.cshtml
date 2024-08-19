@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Log Search";
+}
+
+<h1>Log Search</h1>
+
+<form method="post">
+    <div>
+        <label for="searchPattern">Search Pattern:</label>
+        <input type="text" id="searchPattern" name="searchPattern" required />
+        <button type="submit">Search</button>
+    </div>
+</form>
+
+@if (Model.SearchResults?.Count > 0)
+{
+    <h2>Results:</h2>
+    <ul>
+        @foreach (var result in Model.SearchResults)
+        {
+            <li>@result</li>
+        }
+    </ul>
+}
+else if (Model.SearchResults != null)
+{
+    <p>No matches found.</p>
+}
