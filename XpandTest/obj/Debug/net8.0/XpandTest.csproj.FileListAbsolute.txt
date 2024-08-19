@@ -1,0 +1,14 @@
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\bin\Debug\net8.0\XpandTest.exe
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\bin\Debug\net8.0\XpandTest.deps.json
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\bin\Debug\net8.0\XpandTest.runtimeconfig.json
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\bin\Debug\net8.0\XpandTest.dll
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\bin\Debug\net8.0\XpandTest.pdb
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\obj\Debug\net8.0\XpandTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\obj\Debug\net8.0\XpandTest.AssemblyInfoInputs.cache
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\obj\Debug\net8.0\XpandTest.AssemblyInfo.cs
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\obj\Debug\net8.0\XpandTest.csproj.CoreCompileInputs.cache
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\obj\Debug\net8.0\XpandTest.dll
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\obj\Debug\net8.0\refint\XpandTest.dll
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\obj\Debug\net8.0\XpandTest.pdb
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\obj\Debug\net8.0\XpandTest.genruntimeconfig.cache
+C:\Users\Oleh\source\repos\XpandTest\XpandTest\obj\Debug\net8.0\ref\XpandTest.dll
